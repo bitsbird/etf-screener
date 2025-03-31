@@ -10,8 +10,8 @@ const SearchFund: FC = () => {
     // Add your search logic here
   };
   return (
-    <div className={Style.searchFund}>
-      <div>
+    <div className={Style.SearchFund}>
+      <div className={Style.Input}>
         <InputSearch keyword={property} onSetKeyword={setPropertyValue} />
       </div>
       <div>

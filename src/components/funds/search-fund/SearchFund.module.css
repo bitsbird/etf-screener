@@ -1,4 +1,7 @@
 .SearchFund{
   display: flex;
   flex-direction: row;
+  .Input{
+    margin-right: var(--size-2);
+  }
 }
