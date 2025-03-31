@@ -1,3 +1,4 @@
+@import 'reset-css';
 @import "open-props/style";
 @import './variables';
 
@@ -6,4 +7,7 @@ body{
   font-weight: var(--font-primary-weight);
   color: var(--text-color-primary);
   background-color: var(--background-color-dark);
+}
+button, input, select, textarea{
+  font-family: inherit;
 }
