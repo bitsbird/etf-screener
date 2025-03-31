@@ -1,0 +1,5 @@
+.DataProp{
+  .label{
+    font-weight: var(--font-weight-embossed);
+  }
+}

@@ -1,7 +1,6 @@
 import { FC } from 'react';
 import Style from './App.module.css';
-import FundDetail from './funds/FundDetail';
-import InputSearch from './base-components/input-search/InputSearch';
+import SearchFund from './components/funds/search-fund/SearchFund';
 const App: FC = () => {
   return (
     <div className={Style.App}>
@@ -9,14 +8,12 @@ const App: FC = () => {
         <div className={Style.Header}>
           <div className={Style.HeaderContent}>
             <h1>ETF Screener</h1>
-            <InputSearch />
+            <SearchFund />
           </div>
         </div>
       </header>
       <div className={Style.Scrollable}>
-        <main className={Style.MainContent}>
-          <FundDetail />
-        </main>
+        <main className={Style.MainContent}></main>
       </div>
     </div>
   );

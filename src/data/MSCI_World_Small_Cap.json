@@ -1,0 +1,212 @@
+{
+  "data": {
+    "summary": {
+      "isin": "IE00BF4RFH31",
+      "name": "iShares MSCI World Small Cap UCITS ETF USD (Acc)",
+      "benchmark_index": "MSCI World Small Cap Index",
+      "expense_ratio": 0.35,
+      "countries": [
+        {
+          "countryName": "United States",
+          "countryIsoCode": "US",
+          "weight": 59.62
+        },
+        {
+          "countryName": "Japan",
+          "countryIsoCode": "JP",
+          "weight": 13.17
+        },
+        {
+          "countryName": "Eurozone",
+          "countryIsoCode": "EZ",
+          "weight": 6.81
+        },
+        {
+          "countryName": "Europe ex-Euro",
+          "countryIsoCode": "EU",
+          "weight": 5.13
+        },
+        {
+          "countryName": "United Kingdom",
+          "countryIsoCode": "GB",
+          "weight": 4.87
+        }
+      ],
+      "return": {
+        "oneYearReturn": 4.56,
+        "sixMonthsReturn": null,
+        "threeMonthsReturn": null,
+        "oneMonthReturn": null,
+        "oneWeekReturn": null
+      }
+    },
+    "industries": [
+      {
+        "name": "Industrials",
+        "weight": 19.42
+      },
+      {
+        "name": "Financial Services",
+        "weight": 14.88
+      },
+      {
+        "name": "Consumer Cyclical",
+        "weight": 13.07
+      },
+      {
+        "name": "Technology",
+        "weight": 12.24
+      },
+      {
+        "name": "Healthcare",
+        "weight": 9.72
+      }
+    ],
+    "holdings": [
+      {
+        "name": "Stoxx Europe Small 200 Future Mar 25",
+        "symbol": null,
+        "weight": 0.25,
+        "numberOfShares": null
+      },
+      {
+        "name": "Tapestry Inc",
+        "symbol": "TPR",
+        "weight": 0.21,
+        "numberOfShares": null
+      },
+      {
+        "name": "US Foods Holding Corp",
+        "symbol": "USFD",
+        "weight": 0.19,
+        "numberOfShares": null
+      },
+      {
+        "name": "RUSSELL 2000 EMINI CME JUN 25",
+        "symbol": null,
+        "weight": 0.19,
+        "numberOfShares": null
+      },
+      {
+        "name": "RUSSELL 2000 EMINI CME MAR 25",
+        "symbol": null,
+        "weight": 0.19,
+        "numberOfShares": null
+      },
+      {
+        "name": "Casey's General Stores Inc",
+        "symbol": "CASY",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Fair Isaac Corp",
+        "symbol": "FICO",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Builders FirstSource Inc",
+        "symbol": "BLDR",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Booz Allen Hamilton Holding Corp Class A",
+        "symbol": "BAH",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Cullen/Frost Bankers Inc",
+        "symbol": "CFR",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Jabil Inc",
+        "symbol": "JBL",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Lattice Semiconductor Corp",
+        "symbol": "LSCC",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Performance Food Group Co",
+        "symbol": "PFGC",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "RPM International Inc",
+        "symbol": "RPM",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Saia Inc",
+        "symbol": "SAIA",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Teledyne Technologies Inc",
+        "symbol": "TDY",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Watsco Inc Class A",
+        "symbol": "WSO",
+        "weight": 0.18,
+        "numberOfShares": null
+      },
+      {
+        "name": "Ares Management Corp Class A",
+        "symbol": "ARES",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Burlington Stores Inc",
+        "symbol": "BURL",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Cognex Corp",
+        "symbol": "CGNX",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Crown Holdings Inc",
+        "symbol": "CCK",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Deckers Outdoor Corp",
+        "symbol": "DECK",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "First Solar Inc",
+        "symbol": "FSLR",
+        "weight": 0.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Globe Life Inc",
+        "symbol": "GL",
+        "weight": 0.17,
+        "numberOfShares": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "summary": {
+      "isin": "IE00BM67HK77",
+      "name": "Xtrackers MSCI World Health Care UCITS ETF 1C",
+      "benchmark_index": "MSCI World Health Care Total Return Net Index",
+      "expense_ratio": 0.25,
+      "countries": [
+        {
+          "countryName": "United States",
+          "countryIsoCode": "US",
+          "weight": 72.00
+        },
+        {
+          "countryName": "Switzerland",
+          "countryIsoCode": "CH",
+          "weight": 8.00
+        },
+        {
+          "countryName": "Japan",
+          "countryIsoCode": "JP",
+          "weight": 6.00
+        },
+        {
+          "countryName": "United Kingdom",
+          "countryIsoCode": "GB",
+          "weight": 4.00
+        },
+        {
+          "countryName": "Denmark",
+          "countryIsoCode": "DK",
+          "weight": 3.00
+        }
+      ],
+      "return": {
+        "oneYearReturn": 10.65,
+        "sixMonthsReturn": -1.63,
+        "threeMonthsReturn": -5.49,
+        "oneMonthReturn": 0.45,
+        "oneWeekReturn": null
+      }
+    },
+    "industries": [
+      {
+        "name": "Healthcare",
+        "weight": 100.00
+      }
+    ],
+    "holdings": [
+      {
+        "name": "Eli Lilly and Co",
+        "symbol": "LLY",
+        "weight": 8.65,
+        "numberOfShares": null
+      },
+      {
+        "name": "UnitedHealth Group Inc",
+        "symbol": "UNH",
+        "weight": 5.97,
+        "numberOfShares": null
+      },
+      {
+        "name": "Johnson & Johnson",
+        "symbol": "JNJ",
+        "weight": 5.10,
+        "numberOfShares": null
+      },
+      {
+        "name": "AbbVie Inc",
+        "symbol": "ABBV",
+        "weight": 4.93,
+        "numberOfShares": null
+      },
+      {
+        "name": "Novo Nordisk AS Class B",
+        "symbol": "NOVO-B",
+        "weight": 3.34,
+        "numberOfShares": null
+      },
+      {
+        "name": "Merck & Co Inc",
+        "symbol": "MRK",
+        "weight": 3.33,
+        "numberOfShares": null
+      },
+      {
+        "name": "Thermo Fisher Scientific Inc",
+        "symbol": "TMO",
+        "weight": 3.26,
+        "numberOfShares": null
+      },
+      {
+        "name": "Pfizer Inc",
+        "symbol": "PFE",
+        "weight": 3.20,
+        "numberOfShares": null
+      },
+      {
+        "name": "Abbott Laboratories",
+        "symbol": "ABT",
+        "weight": 3.19,
+        "numberOfShares": null
+      },
+      {
+        "name": "Danaher Corp",
+        "symbol": "DHR",
+        "weight": 3.17,
+        "numberOfShares": null
+      },
+      {
+        "name": "Amgen Inc",
+        "symbol": "AMGN",
+        "weight": 2.58,
+        "numberOfShares": null
+      },
+      {
+        "name": "AstraZeneca PLC",
+        "symbol": "AZN",
+        "weight": 2.57,
+        "numberOfShares": null
+      },
+      {
+        "name": "Gilead Sciences Inc",
+        "symbol": "GILD",
+        "weight": 1.52,
+        "numberOfShares": null
+      },
+      {
+        "name": "Bristol-Myers Squibb Co",
+        "symbol": "BMY",
+        "weight": 1.51,
+        "numberOfShares": null
+      },
+      {
+        "name": "Stryker Corp",
+        "symbol": "SYK",
+        "weight": 1.50,
+        "numberOfShares": null
+      },
+      {
+        "name": "Medtronic PLC",
+        "symbol": "MDT",
+        "weight": 1.49,
+        "numberOfShares": null
+      },
+      {
+        "name": "CSL Ltd",
+        "symbol": "CSL",
+        "weight": 1.45,
+        "numberOfShares": null
+      },
+      {
+        "name": "Regeneron Pharmaceuticals Inc",
+        "symbol": "REGN",
+        "weight": 1.43,
+        "numberOfShares": null
+      },
+      {
+        "name": "Cigna Group",
+        "symbol": "CI",
+        "weight": 1.39,
+        "numberOfShares": null
+      },
+      {
+        "name": "Intuitive Surgical Inc",
+        "symbol": "ISRG",
+        "weight": 1.36,
+        "numberOfShares": null
+      },
+      {
+        "name": "Humana Inc",
+        "symbol": "HUM",
+        "weight": 1.35,
+        "numberOfShares": null
+      },
+      {
+        "name": "Zoetis Inc Class A",
+        "symbol": "ZTS",
+        "weight": 1.34,
+        "numberOfShares": null
+      },
+      {
+        "name": "Becton Dickinson and Co",
+        "symbol": "BDX",
+        "weight": 1.33,
+        "numberOfShares": null
+      },
+      {
+        "name": "Chugai Pharmaceutical Co Ltd",
+        "symbol": "4519",
+        "weight": 1.31,
+        "numberOfShares": null
+      },
+      {
+        "name": "Biogen Inc",
+        "symbol": "BIIB",
+        "weight": 1.29,
+        "numberOfShares": null
+      }
+    ]
+  }
+}

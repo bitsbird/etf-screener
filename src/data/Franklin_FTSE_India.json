@@ -1,0 +1,221 @@
+{
+  "data": {
+    "summary": {
+      "isin": "IE00BHZRQZ17",
+      "name": "Franklin FTSE India UCITS ETF",
+      "benchmark_index": "FTSE India 30/18 Capped Index",
+      "expense_ratio": 0.19,
+      "countries": [
+        {
+          "countryName": "India",
+          "countryIsoCode": "IN",
+          "weight": 98.24
+        }
+      ],
+      "return": {
+        "oneYearReturn": 1.23,
+        "sixMonthsReturn": 12.62,
+        "threeMonthsReturn": 11.11,
+        "oneMonthReturn": 2.26,
+        "oneWeekReturn": 2.19
+      }
+    },
+    "industries": [
+      {
+        "name": "Financial Services",
+        "weight": 25.38
+      },
+      {
+        "name": "Technology",
+        "weight": 11.30
+      },
+      {
+        "name": "Consumer Cyclical",
+        "weight": 11.09
+      },
+      {
+        "name": "Energy",
+        "weight": 9.14
+      },
+      {
+        "name": "Industrials",
+        "weight": 8.88
+      },
+      {
+        "name": "Basic Materials",
+        "weight": 8.92
+      },
+      {
+        "name": "Communication Services",
+        "weight": 4.40
+      },
+      {
+        "name": "Consumer Defensive",
+        "weight": 6.36
+      },
+      {
+        "name": "Healthcare",
+        "weight": 6.22
+      },
+      {
+        "name": "Utilities",
+        "weight": 4.56
+      }
+    ],
+    "holdings": [
+      {
+        "name": "HDFC Bank Ltd",
+        "symbol": "HDFCBANK:NSI",
+        "weight": 6.98,
+        "numberOfShares": null
+      },
+      {
+        "name": "Reliance Industries Ltd",
+        "symbol": "RELIANCE:NSI",
+        "weight": 5.97,
+        "numberOfShares": null
+      },
+      {
+        "name": "ICICI Bank Ltd",
+        "symbol": "ICICIBANK:NSI",
+        "weight": 4.20,
+        "numberOfShares": null
+      },
+      {
+        "name": "Infosys Ltd",
+        "symbol": "INFY:NSI",
+        "weight": 4.04,
+        "numberOfShares": null
+      },
+      {
+        "name": "Bharti Airtel Ltd",
+        "symbol": "BHARTIARTL:NSI",
+        "weight": 2.99,
+        "numberOfShares": null
+      },
+      {
+        "name": "Tata Consultancy Services Ltd",
+        "symbol": "TCS:NSI",
+        "weight": 2.62,
+        "numberOfShares": null
+      },
+      {
+        "name": "Bajaj Finance Ltd",
+        "symbol": "BAJFINANCE:NSI",
+        "weight": 1.74,
+        "numberOfShares": null
+      },
+      {
+        "name": "Mahindra & Mahindra Ltd",
+        "symbol": "M&M:NSI",
+        "weight": 1.73,
+        "numberOfShares": null
+      },
+      {
+        "name": "Axis Bank Ltd",
+        "symbol": "AXISBANK:NSI",
+        "weight": 1.71,
+        "numberOfShares": null
+      },
+      {
+        "name": "HCL Technologies Ltd",
+        "symbol": "HCLTECH:NSI",
+        "weight": 1.97,
+        "numberOfShares": null
+      },
+      {
+        "name": "Larsen & Toubro Ltd",
+        "symbol": "LT:NSI",
+        "weight": 1.56,
+        "numberOfShares": null
+      },
+      {
+        "name": "Hindustan Unilever Ltd",
+        "symbol": "HINDUNILVR:NSI",
+        "weight": 1.53,
+        "numberOfShares": null
+      },
+      {
+        "name": "Kotak Mahindra Bank Ltd",
+        "symbol": "KOTAKBANK:NSI",
+        "weight": 1.52,
+        "numberOfShares": null
+      },
+      {
+        "name": "ITC Ltd",
+        "symbol": "ITC:NSI",
+        "weight": 1.51,
+        "numberOfShares": null
+      },
+      {
+        "name": "State Bank of India",
+        "symbol": "SBIN:NSI",
+        "weight": 1.47,
+        "numberOfShares": null
+      },
+      {
+        "name": "Maruti Suzuki India Ltd",
+        "symbol": "MARUTI:NSI",
+        "weight": 1.45,
+        "numberOfShares": null
+      },
+      {
+        "name": "Sun Pharmaceutical Industries Ltd",
+        "symbol": "SUNPHARMA:NSI",
+        "weight": 1.38,
+        "numberOfShares": null
+      },
+      {
+        "name": "Power Grid Corporation of India Ltd",
+        "symbol": "POWERGRID:NSI",
+        "weight": 1.36,
+        "numberOfShares": null
+      },
+      {
+        "name": "NTPC Ltd",
+        "symbol": "NTPC:NSI",
+        "weight": 1.34,
+        "numberOfShares": null
+      },
+      {
+        "name": "Nestle India Ltd",
+        "symbol": "NESTLEIND:NSI",
+        "weight": 1.32,
+        "numberOfShares": null
+      },
+      {
+        "name": "Tata Steel Ltd",
+        "symbol": "TATASTEEL:NSI",
+        "weight": 1.41,
+        "numberOfShares": null
+      },
+      {
+        "name": "UltraTech Cement Ltd",
+        "symbol": "ULTRACEMCO:NSI",
+        "weight": 1.39,
+        "numberOfShares": null
+      },
+      {
+        "name": "Asian Paints Ltd",
+        "symbol": "ASIANPAINT:NSI",
+        "weight": 1.43,
+        "numberOfShares": null
+      },
+      {
+        "name": "Tata Motors Ltd",
+        "symbol": "TATAMOTORS:NSI",
+        "weight": 1.29,
+        "numberOfShares": null
+      },
+      {
+        "name": "Wipro Ltd",
+        "symbol": "WIPRO:NSI",
+        "weight": 1.28,
+        "numberOfShares": null
+      }
+    ]
+  }
+}
+
+
+
