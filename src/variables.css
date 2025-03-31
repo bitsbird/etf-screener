@@ -1,0 +1,17 @@
+:root{
+  --font-primary: var(--font-geometric-humanist);
+  --font-weight-thin: var(--font-weight-1);
+  --font-weight-regular: var(--font-weight-3);
+  --font-weight-embossed: var(--font-weight-8);
+
+
+  /*colors*/
+  --text-color-primary: var(--gray-0);
+  --text-color-secondary: var(--gray-4);
+  --text-color-tertiary: var(--gray-6);
+
+  --background-color-dark: var(--gray-9);
+
+  /*sizes*/
+  --header-height: 120px;
+}
