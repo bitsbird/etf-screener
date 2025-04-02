@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import type { PropertySetter } from './../hooks/usePropertyHook';
+import type { PropertySetter } from '../../hooks/usePropertyHook';
 const InputSearch: FC<{ keyword: string; onSetKeyword: PropertySetter<string> }> = ({
   keyword,
   onSetKeyword,
