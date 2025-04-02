@@ -1,16 +1,18 @@
-import { FC } from 'react';
+import { FC, useContext } from 'react';
 import InputSearch from '../../base/input-search/InputSearch';
 import usePropertyHook from '../../hooks/usePropertyHook';
 import Style from './searchFund.module.css';
 import FundAPI from './../../../data/FundAPI';
+import { FundContext } from '../FundContext';
 
 const SearchFund: FC = () => {
   const { property: keyword, setPropertyValue: setKeyword } = usePropertyHook<string>('');
+  const { setFunds } = useContext(FundContext);
   const onSearch: React.MouseEventHandler<HTMLButtonElement> = () => {
     if (keyword.length > 3) {
       FundAPI.searchFund(keyword)
         .then((funds) => {
-          console.log(funds[0]?.summary);
+          setFunds(funds);
         })
         .catch((error) => {
           console.error('Error fetching funds:', error);

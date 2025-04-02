@@ -3,12 +3,7 @@ export interface FundAPIFundResponse {
 }
 
 export interface FundAPIFund {
-  summary: {
-    isin: string;
-    name: string;
-    benchmark_index: string;
-    expense_ratio: number | null;
-  };
+  summary: FundAPISummary;
   countries: FundAPICountry[];
   return: {
     oneYearReturn: number | null;
@@ -36,4 +31,11 @@ export interface FundAPIHolding {
   weight: number;
   symbol: string;
   numberOfShares: number | null;
+}
+
+export interface FundAPISummary {
+  isin: string;
+  name: string;
+  benchmark_index: string;
+  expense_ratio: number | null;
 }

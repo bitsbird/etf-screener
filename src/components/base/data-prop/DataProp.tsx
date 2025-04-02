@@ -4,7 +4,7 @@ import Paragraph from '../paragraph/Paragraph';
 
 const DataProp: FC<{ label: string; value?: string }> = ({ label, value }) => {
   return (
-    <div className={Style.dataProp}>
+    <div className={Style.DataProp}>
       <Paragraph>
         <span className={Style.label}>{label}: </span>
         <span className={Style.value}>{value}</span>

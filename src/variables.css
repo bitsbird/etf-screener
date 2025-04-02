@@ -11,6 +11,7 @@
   --text-color-tertiary: var(--gray-6);
 
   --background-color-dark: var(--gray-9);
+  --background-color-surface: var(--gray-7);
 
   /*sizes*/
   --header-height: 120px;

@@ -1,0 +1,14 @@
+.FundList{
+  display: flex;
+  flex-direction: column;
+  flex-basis:100%;
+  padding-top: var(--size-3);
+  .Header{
+    margin-bottom: var(--size-2);
+  }
+  .Item{
+    background-color: var(--background-color-surface);
+    margin-bottom: var(--size-3);
+    padding: var(--size-4)
+  }
+}
