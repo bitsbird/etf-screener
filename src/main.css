@@ -10,4 +10,5 @@ body{
 }
 button, input, select, textarea{
   font-family: inherit;
+  min-height: var(--size-6);
 }
