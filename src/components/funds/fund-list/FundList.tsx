@@ -2,7 +2,7 @@ import { FC } from 'react';
 import Styles from './FundList.module.css';
 import { useContext } from 'react';
 import { FundContext } from '../FundContext';
-import { H2, H3 } from '../../base/headings/Headings';
+import { H2 } from '../../base/headings/Headings';
 import DataProp from '../../base/data-prop/DataProp';
 const FundList: FC = () => {
   const { fundList } = useContext(FundContext);
