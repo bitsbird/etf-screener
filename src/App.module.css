@@ -20,12 +20,18 @@
   }
   .HeaderContent{
     display: flex;
+    flex-direction: column;
     flex-basis: 100%;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    justify-self: center;
     margin: 0 var(--size-3);
+    justify-content: space-evenly;
+    @media (--md-n-above) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      justify-self: center;
+    }
+   
+   
   }
   .Scrollable{
     display: flex;

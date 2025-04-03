@@ -1,25 +1,47 @@
 .h1{
-  font-size: var(--size-9);
+  font-size: var(--size-7);
+  @media (--sm-n-above){
+    font-size: var(--size-8);
+  }
+  @media (--md-n-above){
+    font-size: var(--size-9);
+  }
   font-weight: var(--font-weight-embossed);
 }
 .h2{
-  font-size: var(--size-7);
+  font-size: var(--size-6);
+ 
+  @media (--md-n-above){
+    font-size: var(--size-7);
+  }
   font-weight: var(--font-weight-embossed);
 }
 .h3{
-  font-size: var(--size-6);
+  font-size: var(--size-5);
+ 
+  @media (--md-n-above){
+    font-size: var(--size-6);
+  }
   font-weight: var(--font-weight-regular);
 }
 .h4{
-  font-size: var(--size-5);
+  font-size: var(--size-4);
+  @media (--md-n-above){
+    font-size: var(--size-5);
+  }
   font-weight: var(--font-weight-regular);
 }
 .h5{
-  font-size: var(--size-4);
+  font-size: var(--size-3);
+  @media (--md-n-above){
+    font-size: var(--size-4);
+  }
   font-weight: var(--font-weight-thin);
 }
 .h6{
-  font-size: var(--size-3);
+  font-size: var(--size-2);
+  @media (--md-n-above){
+    font-size: var(--size-3);
+  }
   font-weight: var(--font-weight-thin);
-
 }
