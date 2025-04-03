@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@csstools/postcss-global-data": "^3.0.0",
     "axios": "^1.8.3",
     "open-props": "^1.7.14",
+    "postcss-custom-media": "^11.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "reset-css": "^5.0.2"
