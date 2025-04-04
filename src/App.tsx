@@ -1,9 +1,9 @@
 import { FC } from 'react';
 import Style from './App.module.css';
+import { Outlet } from 'react-router';
 import SearchFund from './components/funds/search-fund/SearchFund';
 import { H1 } from './components/base/headings/Headings';
 import { FundProvider } from './components/funds/FundContext';
-import FundList from './components/funds/fund-list/FundList';
 import WalletButton from './components/wallet/WalletButton';
 const App: FC = () => {
   return (
@@ -26,7 +26,7 @@ const App: FC = () => {
         </header>
         <div className={Style.Scrollable}>
           <main className={Style.MainContent}>
-            <FundList />
+            <Outlet />
           </main>
         </div>
       </FundProvider>
