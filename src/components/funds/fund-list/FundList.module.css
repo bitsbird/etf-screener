@@ -7,8 +7,13 @@
     margin-bottom: var(--size-2);
   }
   .Item{
+    display:flex;
+    flex-direction: row;
     background-color: var(--background-color-surface);
     margin-bottom: var(--size-3);
     padding: var(--size-4)
+  }
+  .ItemData{
+    flex-grow: 1;
   }
 }

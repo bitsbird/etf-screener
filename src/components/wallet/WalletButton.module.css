@@ -9,10 +9,10 @@
     }
   }
   .Action{
-    display:absolute;
+    position:absolute;
     top:0;
     font-weight: var(--font-weight-embossed);
     font-size: var(--size-7);   
-    color: var(----text-color-inverted);
+    color: var(--text-color-inverted);
   }
 }
