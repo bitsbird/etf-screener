@@ -9,10 +9,11 @@
   --text-color-primary: var(--gray-0);
   --text-color-secondary: var(--gray-4);
   --text-color-tertiary: var(--gray-6);
+  --text-color-inverted: var(--gray-7);
 
   --background-color-dark: var(--gray-9);
   --background-color-surface: var(--gray-7);
 
   /*sizes*/
-  --header-height: 120px;
+  --header-height: 140px;
 }

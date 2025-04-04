@@ -1,0 +1,18 @@
+.WalletButton{
+  position:relative;
+  svg{
+    width:40px;
+    height:40px;
+    @media (--xs-n-above){
+      width:60px;
+      height:60px;
+    }
+  }
+  .Action{
+    display:absolute;
+    top:0;
+    font-weight: var(--font-weight-embossed);
+    font-size: var(--size-7);   
+    color: var(----text-color-inverted);
+  }
+}
